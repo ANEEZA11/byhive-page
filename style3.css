@@ -1,0 +1,32 @@
+.s1{
+    background:whitesmoke;
+    border-radius: 30px;
+    height: 8vh;
+}
+.s2{
+    border-radius: 10px;
+    background:whitesmoke;
+}
+.s3{
+    border-radius: 10px;
+    background:whitesmoke;
+}
+#head1{
+    border: aliceblue;
+
+}
+#head9{
+    border: aliceblue;
+}
+#head10{
+    border: aliceblue;
+
+}
+.footer{
+    background-color: whitesmoke;
+    height: 50%;
+    width: 100%;
+}
+.card:hover{
+    color: grey;
+}
